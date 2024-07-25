@@ -1,5 +1,7 @@
 This is a demo of an email confirmation workflow using [Next.js](https://nextjs.org/), [Resend](https://resend.com/), [Xata.io](https://xata.io/), and [Prisma.io](https://www.prisma.io/).
 
+[![Email Verification from Figma](https://github.com/user-attachments/assets/e11dd073-56b0-4750-8149-7c688a9388e7)](https://youtu.be/OTgGpovffNY)
+
 ## Getting Started
 
 First, add your environment variables. You can copy the example variables using the following command:
